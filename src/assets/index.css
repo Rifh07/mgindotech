@@ -1,0 +1,24 @@
+* {
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background:#E5E5E5;
+}
+.inline {
+    display: inline;
+}
+.inline-block {
+    display: inline-block;
+}
+.block {
+    display: block;
+}
+.c-grey {
+    color: #929292;
+}
+.cursor {
+    cursor: pointer;
+    height: 370px;
+}
